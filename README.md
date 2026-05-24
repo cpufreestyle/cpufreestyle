@@ -1,37 +1,42 @@
-# Hi there 👋 I'm cpufreestyle
+# 👋 Hi, I'm Michael
 
-> Building tools that bridge AI, creative workflows, and infrastructure.
+Full-stack developer and GPU systems enthusiast.
 
-## 🔥 Featured Projects
+## 🔧 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| [hybrid-gpu-scheduler](https://github.com/cpufreestyle/hybrid-gpu-scheduler) | Heterogeneous GPU scheduler for NVIDIA + AMD |
-| [vr-paint](https://github.com/cpufreestyle/vr-paint) | WebXR 3D painting app for Meta Quest |
-| [psvr2-panel](https://github.com/cpufreestyle/psvr2-panel) | PSVR2 wireless panel control tool |
-| [marble-3d-service](https://github.com/cpufreestyle/marble-3d-service) | Marble 3D world generation service |
-| [Pixelle-Video](https://github.com/cpufreestyle/Pixelle-Video) | AI fully automated short video engine |
-| [hermes-agent](https://github.com/cpufreestyle/hermes-agent) | The agent that grows with you |
+### [Hybrid GPU Scheduler](https://github.com/cpufreestyle/hybrid-gpu-scheduler)
+A smart GPU scheduler for **NVIDIA + AMD** heterogeneous setups. Multi-factor scoring (VRAM 30%, utilization 25%, GPU type 20%, priority 15%, load balance 10%), three scheduling policies (binpack/spread/gpu_type), real-time dashboard with WebSocket, Prometheus metrics, Helm chart, and Kubernetes support.
+
+### [PSVR2 Panel](https://github.com/cpufreestyle/psvr2-panel)
+PlayStation VR2 control panel and management tool.
+
+### [VR Paint](https://github.com/cpufreestyle/vr-paint)
+Web-based VR painting application built with A-Frame.
+
+### [Marble 3D Service](https://github.com/cpufreestyle/marble-3d-service)
+3D marble simulation service with Python Flask backend.
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![WebXR](https://img.shields.io/badge/WebXR-FF5A5F?style=flat&logo=webxr&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| Languages | Go, Python, TypeScript, Rust |
+| GPU Computing | CUDA, ROCm, Vulkan |
+| ML/AI | PyTorch, TensorFlow |
+| Web | React, Vue, A-Frame |
+| Cloud/Infra | Docker, Kubernetes, Helm, Prometheus, Grafana |
+| Hardware | NVIDIA RTX 5070 Ti (16GB), AMD RX 7900 XTX (24GB) |
 
 ## 📊 GitHub Stats
 
-![cpufreestyle's stats](https://github-readme-stats.vercel.app/api?username=cpufreestyle&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpufreestyle&show_icons=true&theme=dark&hide_border=true)
 
-## 🌐 Find Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpufreestyle&layout=compact&theme=dark&hide_border=true)
 
-- 🦊 [Gitee](https://gitee.com/cpufreestyle)
-- 💬 Always happy to collaborate on open-source tools!
+## 🤝 Open Source
+
+I believe in building tools that make heterogeneous computing accessible. If you're working with mixed NVIDIA + AMD GPU setups, check out the Hybrid GPU Scheduler — contributions welcome!
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cpufreestyle&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+⭐ From [cpufreestyle](https://github.com/cpufreestyle)
